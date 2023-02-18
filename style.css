@@ -41,7 +41,7 @@ section.container{
   border-radius: 0.625rem;
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
-
+  cursor: pointer;
 }
 
 .equi .main-image div:hover{
