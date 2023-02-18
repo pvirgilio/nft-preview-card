@@ -6,3 +6,6 @@
 
 ![Alt text](design/desktop_feito.png)
 
+# Efeitos ativos do site:
+![Alt text](design/active-states.jpg)
+
